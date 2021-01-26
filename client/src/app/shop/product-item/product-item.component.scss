@@ -1,0 +1,18 @@
+.btn-group {
+    width: 100%;
+}
+
+.btn {
+    width: 50%;
+}
+
+.text-uppercase {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
+
+.text-uppercase:hover{
+    overflow: unset;
+}
